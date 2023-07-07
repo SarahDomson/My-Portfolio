@@ -47,3 +47,34 @@
     line-height: 132%;
     letter-spacing: -1.6px;
 }
+
+.country {
+    color: #000;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132%;
+    letter-spacing: -0.72px;
+}
+
+.contact-info {
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.32px;
+}
+
+.tools {
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 132%;
+    letter-spacing: -0.4px;
+}
+
