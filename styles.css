@@ -27,3 +27,23 @@
 .info-container {
     padding-top: 25px;
 }
+
+.name {
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132%;
+    letter-spacing: -0.72px;
+}
+
+.track {
+    color: #FF408C;
+    font-family: Poppins;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 132%;
+    letter-spacing: -1.6px;
+}
