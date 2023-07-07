@@ -66,6 +66,7 @@
     font-weight: 500;
     line-height: 30px;
     letter-spacing: 0.32px;
+    margin-top: 50px;
 }
 
 .tools {
@@ -78,3 +79,8 @@
     letter-spacing: -0.4px;
 }
 
+.tools-img {
+    width: 20%;
+    height: 20%;
+    margin-right: 15px;
+}
