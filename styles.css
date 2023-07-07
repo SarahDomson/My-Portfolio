@@ -75,9 +75,27 @@
     top: 180px;
 }
 
-.profile-picture img, .picture-pink img {
-    width: 300px;
+.picture-pink {
+    position: absolute;
+    right: 40px;
+    top: 180px;
+}
+
+.profile-picture img {
+    width: 290px;
     height: 400px;
+}
+
+.picture-pink img {
+    margin-top: 10%;
+    width: 290px;
+    height: 400px;
+}
+
+.vector-img {
+    width: 158.28px;
+    height: 161.847px;
+    flex-shrink: 0;   
 }
 
 .tools {
