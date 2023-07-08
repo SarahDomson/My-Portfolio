@@ -87,24 +87,10 @@
 }
 
 .profile-picture {
-    position: absolute;
-    right: 60px;
-    top: 150px;
-    width: 487px;
-    height: 710px;  
-}
-
-.picture-pink {
-    position: absolute;
-    right: 50px;
-    top: 200px;
-    width: 300px;
-    height: 400px;
-}
-
-.profile-picture img {
-    width: 290px;
-    height: 400px;
+    position: relative;
+    width: 25%;
+    top: 0;
+    left: 0;
 }
 
 .picture-pink img {
