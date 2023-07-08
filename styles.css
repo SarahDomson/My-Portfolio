@@ -66,7 +66,7 @@
     font-weight: 500;
     line-height: 30px;
     letter-spacing: 0.32px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 
@@ -83,26 +83,35 @@
 .tools-img {
     width: 20%;
     height: 20%;
-    margin-right: 15px;
+    margin-top: -10px;
+    padding-right: 8px;
 }
 
-.profile-picture {
-    position: relative;
-    width: 25%;
-    top: 0;
-    left: 0;
+.profile-picture img {
+    width: 250px;
+    height: 370px;
+    position: absolute;
+    top: 37%;
+    left: 75%;
+    z-index: 1;
 }
 
 .picture-pink img {
-    margin-top: 10%;
-    width: 290px;
-    height: 400px;
+    margin-top: 5%;
+    width: 280px;
+    height: 360px;
+    position: absolute;
+    top: 30%;
+    left: 75%;
+    z-index: -2;
 }
 
 .vector-img{
     position: absolute;
-    right: -3.3rem;
-    top: 37.5rem;
+    width: 180px;
+    height: 50px;
+    right: 15px;
+    top: 75%;
     z-index: -2;
   }
 
