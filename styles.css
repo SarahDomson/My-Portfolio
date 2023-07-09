@@ -145,16 +145,3 @@ footer {
     margin-top: 25px;
 }
 
-@media screen and (man-width: 480px) {
-     .profile-picture{
-        position: static;
-     }
-
-     .footer-img-container {
-        width: 12px;
-     }
-
-     .copyright {
-        font-size: 12px;
-     }
-}
