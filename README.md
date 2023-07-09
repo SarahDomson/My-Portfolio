@@ -5,5 +5,5 @@ This repository contains the code for our final project assigned to each student
 The goal of this project is to put into practice HTML and CSS we have been taught throughout our month of training.
 
 # Technologies Used
-HTML
-CSS
+*HTML
+*CSS
